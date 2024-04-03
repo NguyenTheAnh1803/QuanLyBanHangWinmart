@@ -1,0 +1,2 @@
+﻿Rút ra được bài học gì ở buổi học hôm nay:
+Kiến thức về git, github, svn
